@@ -3,6 +3,11 @@
 This modifications gives you the opportunity to automatically zoom your scope inside the sniper.
 
 
+## Usage
+
+Command: /az
+-> toggles the autozoom by using the command.
+
 ## Requirements
 
 GTA:SA, Moonloader
