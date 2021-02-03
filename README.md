@@ -5,7 +5,7 @@ This modifications gives you the opportunity to automatically zoom your scope in
 
 ## Usage
 
-Command: /az
+/az
 -> toggles the autozoom by using the command.
 
 ## Requirements
@@ -14,3 +14,8 @@ GTA:SA, Moonloader
 ```md
 Download here: https://gtaforums.com/topic/890987-moonloader/
 ```
+
+
+## Creator
+
+Montri
